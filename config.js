@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    introTitle: 'Baby à!',
+    introDesc: `Thật kỳ lạ cái cách mà một người chỉ mới trước đó không lâu hoàn toàn xa lạ với anh, rồi bỗng nhiên trở thành cả thế giới`,
+    btnIntro: 'ahihi',
+    title: 'Nhớ nhé, yêu ít thôi, nhưng miễn là lâu dài 😙',
+    desc: 'Hứa ít thôi, nhưng miễn là làm được',
+    btnYes: 'Oki baby <33',
+    btnNo: 'Nầu',
+    question:'Tại sao em lại yêu anh nhỉ <3',
+    btnReply: 'Send <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Yêu baby nhiều lắm <3',
+    btnAccept: 'Dạ <3',
+    messLink: 'https://www.facebook.com/photo.php?fbid=254377166208073&set=pb.100049073750448.-2207520000..&type=3'
 }
